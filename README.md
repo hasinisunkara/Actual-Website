@@ -21,11 +21,8 @@ Based on the pet you choose to get you will need different types of materials. Y
 
 Links to help you get started!
 
-[petco]
-(https://www.petco.com/shop/en/petcostore)
+[petco](https://www.petco.com/shop/en/petcostore)
 
-[petsmart]
-(https://www.petsmart.com/)
+[petsmart](https://www.petsmart.com/)
 
-[veterinarian]
-(https://www.yelp.com/search?cflt=vet&find_loc=Cerritos%2C+CA+90703)
+[veterinarian](https://www.yelp.com/search?cflt=vet&find_loc=Cerritos%2C+CA+90703)
