@@ -21,8 +21,8 @@ Based on the pet you choose to get you will need different types of materials. Y
 
 Links to help you get started!
 
-
-https://www.petco.com/shop/en/petcostore
+(petco)
+[https://www.petco.com/shop/en/petcostore]
 
 
 https://www.petsmart.com/
